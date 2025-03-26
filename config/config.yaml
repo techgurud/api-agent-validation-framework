@@ -1,2 +1,2 @@
 BASE_URL = "https://api.openweathermap.org/data/3.0"
-API_KEY = "1e9c6c0ca4c072d1977d581ae7cb1b35"  # Replace with your actual API key
+API_KEY = "Replace with your actual OpenWeatherMap API key5"  # Replace with your actual API key
